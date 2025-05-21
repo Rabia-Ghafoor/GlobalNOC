@@ -24,6 +24,6 @@
      ```bash
     npm run dev
     ```
-    View it on Localhost
+    
 
-### Environment Setup
+### View it on Localhost
