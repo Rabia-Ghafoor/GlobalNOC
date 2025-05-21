@@ -26,4 +26,4 @@
     ```
     
 
-### View it on Localhost
+### 4. View the pokemon page on Localhost
